@@ -1,0 +1,12 @@
+#wrap {
+  background-color: wheat;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+main {}
+main h1 {}
+main p {}
+main .img {width: 500px; height: 900px;}
+main .img img {height: 100%;}
